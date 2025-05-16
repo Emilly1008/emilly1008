@@ -1,5 +1,5 @@
 # 📖 Olá, Eu sou a Emilly!
- ![livro_abrindo_loop](https://github.com/user-attachments/assets/bf45769b-e1a8-4c58-9551-fc88823638af)
+<img align="right" src="https://github.com/user-attachments/assets/bf45769b-e1a8-4c58-9551-fc88823638af" width="300"/>
 
 Seja bem-vindo(a) ao meu GitHub!
 
