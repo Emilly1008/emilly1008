@@ -3,7 +3,7 @@
 
 Seja bem-vindo(a) ao meu GitHub!
 
-Eu me chamo Emilly de Brito Soares,estou cursando o encino medio, tenho 17 anos e sou de São Paulo. Atualmente estou cursando programação em python. Sou apixonada por livros e tudo que envolva romance
+Eu me chamo Emilly de Brito Soares,estou cursando o ensino médio, tenho 17 anos e sou de São Paulo. Atualmente estou cursando programação em python. Sou apixonada por livros e tudo que envolva romance
 
 ---
 
